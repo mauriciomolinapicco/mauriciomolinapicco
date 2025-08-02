@@ -1,17 +1,14 @@
-# Hi there, I'm Mauricio 👋
+# Mauricio Molina 👨‍💻
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** and a **Software Engineering Student** passionate about building scalable and efficient software solutions. Below, you'll find an overview of my skills, projects, and ways to connect with me.
-
----
+Developer with a strong focus on backend systems, software architecture, and building things that make sense. 
 
 ## 🚀 About Me
-- 🎓 Software Engineering Student
+- 🎓 Software Engineering Student. Graduated in Systems Analysis
 - 💻 Full-Stack Developer with a focus on modern web applications
 - 🌐 Skilled in **Python**, **JavaScript**, **Django**, **React**, and more
 - ☁️ Experienced with **AWS**, **Docker**, and **PostgreSQL**
 
 ---
-
 
 ## 🤝 Let's Connect
 
