@@ -7,3 +7,5 @@ Developer with a strong focus on backend systems, software architecture, and bui
 - 💻 Full-Stack Developer with a focus on modern web applications
 - 🌐 Skilled in **Python**, **JavaScript**, **Django**, **React**, and more
 - ☁️ Experienced with **AWS**, **Docker**, and **PostgreSQL**
+
+![mauriciomolinapicco's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mauriciomolinapicco&theme=vue-dark&hide_border=true)
