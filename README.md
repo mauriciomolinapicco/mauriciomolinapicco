@@ -1,10 +1,8 @@
-# Mauricio Molina 👨‍💻
-
-Software Engineer with a strong focus on crafting resilient backend architectures backend systems, software architecture, and building things that make sense. 
-
 <p align="center">
   <img src="./banner.jpg" alt="Mauricio Molina - Mate Driven Engineer" width="100%">
 </p>
+
+Software Engineer with a strong focus on crafting resilient backend architectures backend systems, software architecture, and building things that make sense.
 
 ## 🚀 About Me
 - 💻 Full-Stack Developer with a focus on modern applications
