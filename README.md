@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Mauricio Molina - Mate Driven Engineer" width="100%">
+  <img src="./banner.jpg" alt="Mauricio Molina - Mate Driven Engineer" width="70%">
 </p>
 
 Software Engineer with a strong focus on crafting resilient backend architectures backend systems, software architecture, and building things that make sense.
